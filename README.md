@@ -9,3 +9,5 @@
 - ⚙️ Development tools/languages I have experience with: `Python`, `Java`, `C/C++`, `Kotlin`, `Swift`, `C#`, `VB.NET`. I've developed native apps for both `iOS` and `Android` systems. I also build tools to help me with development for both Windows and macOS. For Windows, I use Visual Studio, macOS I use Xcode. I have experience with VS Code, Android Studio, and quite a few IDEs in the IntelliJ family. I'm looking forward to learning new ones too!
 
 - ⚡ Fun fact: Windows 11 contains around 50 million lines of code. This is an increase from Windows 10, which contained around 35 million lines of code.
+
+- 🌿 My StackOverflow account: https://stackoverflow.com/users/21183551/ars-codicis 
