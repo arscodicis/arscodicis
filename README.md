@@ -1,6 +1,6 @@
 ### Hi, I'm Ars_Codicis! That name is in Latin, and a rough translation is "Code is an Art." 😎
 
-- 🔭 I’m my current work is on educational software for kids, with a focus on private-school curriculums. I've written a couple apps for both the Google Play Store, and the App Store. You can check them out at my website: https://www.piruxgames.com. Also working on a large-scale JSON regulation and verification tool with C++.
+- 🔭 My current work is on educational software for kids, with a focus on private-school curriculums. I've written a couple apps for both the Google Play Store, and the App Store. You can check them out at my website: https://www.piruxgames.com. Also working on a large-scale JSON regulation and verification tool with C++.
   
 - 🌱 I’m currently learning how to scale large projects and write less duplicitous code. I'm also teaching myself `Kotlin` for future Android development.
   
