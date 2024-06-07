@@ -10,4 +10,5 @@
 
 - ⚡ Fun fact: Windows 11 contains around 50 million lines of code. This is an increase from Windows 10, which contained around 35 million lines of code.
 
-- 🌿 My StackOverflow account: https://stackoverflow.com/users/21183551/ars-codicis 
+
+<a href="https://app.daily.dev/arscodicis"><img src="https://api.daily.dev/devcards/v2/cenGkevRDMix0UBfywZh4.png?type=default&r=3f8" width="356" alt="Ars_Codicis's Dev Card"/></a>
