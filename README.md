@@ -1,4 +1,4 @@
-### Hi, I'm Ars_Codicis! That name is in Latin, and a rough translation is "Code is an Art." 😎
+### Hi, I'm Ars_Codicis! That name is in Latin, and a rough translation is "Code is an Art."
   
 - 🚀 I love learning new technologies, as well as old. Over the years, I've taught myself `MASM` for fun. I've also learned `C`. I put those two together, and built a x86 OS from scratch, and booted it!
   
